@@ -1,0 +1,24 @@
+{
+  "name": "servidor-crud",
+  "version": "1.0.0",
+  "description": "Projeto para aula de Sistemas Distribuidos e Mobile",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AokiLucas/Servidor-crud.git"
+  },
+  "author": "Aoki",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AokiLucas/Servidor-crud/issues"
+  },
+  "homepage": "https://github.com/AokiLucas/Servidor-crud#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "faker-br": "^0.4.1",
+    "nodemon": "^2.0.15"
+  }
+}
