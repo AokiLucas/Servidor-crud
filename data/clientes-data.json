@@ -1,0 +1,50 @@
+{
+	"clientes": {
+		"data": [
+			{
+				"id": 1,
+				"nome": "Lucas Aoki",
+				"endereco": "endereco",
+				"email": "aokilucas90@gmail.com",
+				"altura": 1.85,
+				"casado": false
+			},
+
+			{
+				"id": 2,
+				"nome": "Pedro Henrique",
+				"endereco": "endereco",
+				"email": "pedrinho@gmail.com",
+				"altura": 1.75,
+				"casado": false
+			},
+
+			{
+				"id": 3,
+				"nome": "Caroline Eugênio",
+				"endereco": "endereco",
+				"email": "Carol@gmail.com",
+				"altura": 1.61,
+				"casado": true
+			},
+
+			{
+				"id": 4,
+				"nome": "Flavio Calado",
+				"endereco": "endereco",
+				"email": "flavio.calado@gmail.com",
+				"altura": 1.85,
+				"casado": true
+			},
+
+			{
+				"id": 5,
+				"nome": "Kleber Rodrigues",
+				"endereco": "endereco",
+				"email": "Kleber404@gmail.com",
+				"altura": 1.9,
+				"casado": false
+			}
+		]
+	}
+}
